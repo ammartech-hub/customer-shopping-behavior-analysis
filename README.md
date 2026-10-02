@@ -69,8 +69,10 @@ customer-shopping-behavior-analysis/
 ├── report/
 ├── presentation/
 └── README.md
+```
 
-🚀 How to Run
+## 🚀 How to Run
+
 1. Clone the repository.
 2. Install the required Python libraries.
 3. Open the Jupyter Notebook.
@@ -78,15 +80,21 @@ customer-shopping-behavior-analysis/
 5. Import the cleaned data into PostgreSQL.
 6. Run the SQL queries.
 7. Open the Power BI dashboard.
-pip install pandas numpy matplotlib jupyter
 
+Install the required libraries:
+
+```bash
+pip install pandas numpy matplotlib jupyter
+```
 
 ## 📈 Outcome
+
 The project demonstrates an end-to-end analytics workflow, from raw customer data to SQL-based business analysis and interactive Power BI visualization.
 
-
-
 ## 👨‍💻 Author
-Ammar Khan
+
+**Ammar Khan**
+
 Information Technology Student | Data Analytics & Software Development
-Skills: Python • SQL • PostgreSQL • Power BI • Pandas • NumPy • Data Analytics
+
+**Skills:** Python • SQL • PostgreSQL • Power BI • Pandas • NumPy • Data Analytics
