@@ -80,9 +80,13 @@ customer-shopping-behavior-analysis/
 7. Open the Power BI dashboard.
 pip install pandas numpy matplotlib jupyter
 
-📈 Outcome
+
+##📈 Outcome
 The project demonstrates an end-to-end analytics workflow, from raw customer data to SQL-based business analysis and interactive Power BI visualization.
-👨‍💻 Author
+
+
+
+##👨‍💻 Author
 Ammar Khan
 Information Technology Student | Data Analytics & Software Development
 Skills: Python • SQL • PostgreSQL • Power BI • Pandas • NumPy • Data Analytics
